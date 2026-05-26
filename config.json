@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersarse",
+        "uuid": 15352977,
+        "checksum": "cz3a9h"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
